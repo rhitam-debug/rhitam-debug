@@ -1,16 +1,53 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Rhitam Pal</h1>
 
-<!--
-**rhitam-debug/rhitam-debug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">B.Tech IT Student | Aspiring Software Engineer | Python Enthusiast</h3>
+<img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzU3Ym82cDRkMzg2cjZlZTNxY3Y5NHpwbXYwbW55cjUwdTFtbWs5dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LR5GeZFCwDRcpG20PR/giphy.gif" />
 
-Here are some ideas to get you started:
+### 👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 First-year B.Tech student at Jalpaiguri Government Engineering College
+- 💻 Currently learning Data Structures, Algorithms, and Software Development
+- 🌱 Exploring Python, C, and C++
+- 🚀 Interested in AI, Web Development, and Open Source
+- 📫 Reach me on LinkedIn
+
+---
+
+### 🛠️ Languages & Tools
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rhitam-debug&show_icons=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhitam-debug&layout=compact" height="150" />
+</div>
+
+---
+
+### 🌐 Connect With Me
+
+<a href="linkedin.com/in/rhitam-pal-a111b4385 ">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+---
+
+### ⚡ Fun Fact
+
+```python
+while True:
+    learn()
+    code()
+    improve()
