@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rhitam Pal</h1>
 
 <h3 align="center">B.Tech IT Student | Aspiring Software Engineer | Python Enthusiast</h3>
-<img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzU3Ym82cDRkMzg2cjZlZTNxY3Y5NHpwbXYwbW55cjUwdTFtbWs5dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LR5GeZFCwDRcpG20PR/giphy.gif" />
+<img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG14aDdsNHM0Nzk3eGx5dGh6MGZ1dXZyODMxMXl1N3hjbHdueG5yeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/113A68I5eK95EA/giphy.gif" />
 
 ### 👨‍💻 About Me
 
